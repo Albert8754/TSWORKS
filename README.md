@@ -29,7 +29,8 @@ hERE i HAVE USED sqlite3 to create the Data base and csv file was uploaded
 https://github.com/Albert8754/TSWORKS/blob/main/Abby.sqlite3
 
 Then I have make connection to python  sqlite to database
-
-https://github.com/Albert8754/TSWORKS/blob/main/sqlconnect.py
+https://github.com/Albert8754/TSWORKS/blob/main/restflask.py
 
 then flask file is been created:
+
+The Html File:
